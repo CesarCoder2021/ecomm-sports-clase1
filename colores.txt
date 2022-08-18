@@ -1,0 +1,5 @@
+Paleta de Colores
+#C73B0B - NavBar y Secciones principales
+#F2C545 - Fondos secciones junto con blanco
+#978E43 - Gris fuerte
+#350608 - Bordó oscuro para botones
